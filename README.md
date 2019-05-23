@@ -10,6 +10,8 @@
 
 185. Decide who you're securing against.
 
-372510. Do not write code for the compiler.
+205. Do not write code for the compiler.
 
-372511. Do not write code for the unit tests.
+206. Do not write code for the unit tests.
+
+512. You're not "chatting". You're networking in your field, consulting with experts, and extending your knowledge via the internet. 
