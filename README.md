@@ -14,4 +14,6 @@
 
 206. Do not write code for the unit tests.
 
+314. In the event of fire, flood or famine, please contact emergency services, not the C# chat room. We are unequipped, unprepared and in many cases just plain can't be bothered to assist.
+
 512. You're not "chatting". You're networking in your field, consulting with experts, and extending your knowledge via the internet. 
